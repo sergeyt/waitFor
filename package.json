@@ -1,0 +1,13 @@
+{
+  "author": "Wes Jones",
+  "name": "angular-scenario-waitFor",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergeyt/waitFor"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
